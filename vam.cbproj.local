@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.619,=D:\Users\istvan_vig\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.494,D:\Users\istvan_vig\Documents\RAD Studio\Projects\VAM\Unit1.h=D:\Users\istvan_vig\Documents\RAD Studio\Projects\VAM\tvam.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.557,=D:\Users\istvan_vig\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.264,D:\Users\istvan_vig\Documents\RAD Studio\Projects\VAM\mainU.cpp=D:\Users\istvan_vig\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.280,D:\Users\istvan_vig\Documents\RAD Studio\Projects\VAM\vam.cbproj=D:\Users\istvan_vig\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.264,D:\Users\istvan_vig\Documents\RAD Studio\Projects\VAM\mainU.h=D:\Users\istvan_vig\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.264,D:\Users\istvan_vig\Documents\RAD Studio\Projects\VAM\mainU.dfm=D:\Users\istvan_vig\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.494,D:\Users\istvan_vig\Documents\RAD Studio\Projects\VAM\Unit1.cpp=D:\Users\istvan_vig\Documents\RAD Studio\Projects\VAM\tvam.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,=D:\Users\istvan_vig\Documents\RAD Studio\Projects\VAM\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
